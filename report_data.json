@@ -1,0 +1,35 @@
+{
+    "378383119104999429": {
+        "count": 1,
+        "reasons": [
+            "Test report oleh admin",
+            "No reason provided (Reported by: evarisionscarlet)"
+        ],
+        "last_report": 1742932771.142403
+    },
+    "776744923738800129": {
+        "count": 3,
+        "reasons": [
+            "test (Reported by: zayn3687)",
+            "coba (Reported by: zayn3687)",
+            "bug (Reported by: zayn3687)"
+        ],
+        "last_report": 1742928294.2646308
+    },
+    "466971437585137684": {
+        "count": 3,
+        "reasons": [
+            "test bug (Reported by: zayn3687)",
+            "No reason provided (Reported by: mekaimaa)",
+            "No reason provided (Reported by: evarisionscarlet)"
+        ],
+        "last_report": 1742929369.77006
+    },
+    "1203267797967441976": {
+        "count": 0,
+        "reasons": [
+            "Test report oleh admin"
+        ],
+        "last_report": 1742929447.0204613
+    }
+}
